@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711742484837",
+    "project_id": "webcomic4u-c228f",
+    "storage_bucket": "webcomic4u-c228f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711742484837:android:e53f38b9e9d242552c318c",
+        "android_client_info": {
+          "package_name": "com.example.webcomic4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711742484837-2oqtegfr070p210r463irr07gkbss0kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJzl3vu6ARBXiTJBATF12mfnpSDsPRZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711742484837-2oqtegfr070p210r463irr07gkbss0kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
